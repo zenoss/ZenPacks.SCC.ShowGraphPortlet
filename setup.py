@@ -17,7 +17,7 @@
 NAME = 'ZenPacks.SCC.ShowGraphPortlet'
 VERSION = '1.03'
 AUTHOR = 'Anton Menshutin'
-LICENSE = ''
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.SCC']
 PACKAGES = ['ZenPacks', 'ZenPacks.SCC', 'ZenPacks.SCC.ShowGraphPortlet']
 INSTALL_REQUIRES = []
